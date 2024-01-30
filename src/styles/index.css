@@ -8,7 +8,7 @@
 #semaforo {
   background-color: black;
   width: 150px;
-  height: 400px;
+  height: 430px;
   margin: auto;
   border-radius: 10px;
   padding-top: 20px;
@@ -38,10 +38,10 @@
 }
 
 .purpura {
-  margin-top: 10px;
   background-color: purple;
   margin-bottom: 20px;
   position: relative;
+  border-radius: 10px;
 }
 
 #semaforo .encendido {
